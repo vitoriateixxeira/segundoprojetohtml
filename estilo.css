@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+background-color: #ffcfcf;
+}
+
+th {
+    background-color: #F65314;
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    
+}
+
+table {
+    border-spacing: 5px;
+    border-collapse: separate;
+    font-size: 1rem;
+
+}
+
+td {
+    border: 1px solid #F65314;
+    border-radius: 10px;
+    background-color: #fdf5f2;
+   
+
+}
+
+.tdcolor1 {
+    background-color: #f99772;
+    font-size: 1.2rem;
+    border: 1px solid #F65314;
+    border-radius: 10px;
+
+}
+
+.tdzebra {
+    background: #f6d0c1;
+    font-size: 1.2rem;
+}
